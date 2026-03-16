@@ -61,6 +61,7 @@ This project focuses on analyzing sales, customer data and staff performance acr
 ## DASHBOARD PREVIEW
 
 
+<img width="1518" height="666" alt="D-Lite Electronics Report" src="https://github.com/user-attachments/assets/38b963ce-af17-4fb6-840c-65351eb2269d" />
 
 
 
