@@ -8,9 +8,9 @@
 
 [TOOLS USED](#TOOLSUSED)
 
-[DATA DESCRIPTON](#DATA DESCRIPTION)
+[DATA DESCRIPTON](#DATADESCRIPTION)
 
-[DASHBOARD PREVIEW](#DASHBOARD PREVIEW)
+[DASHBOARD PREVIEW](#DASHBOARDPREVIEW)
 
 [RECOMMENDATION](#RECOMMENDATION)
 
@@ -30,3 +30,15 @@ This project focuses on analyzing sales, customer data and staff performance acr
 *	Unit sold for each category
 *	Identify the top 5 performing staff 
 *	Identify the top 5 customers
+
+
+## TOOLS USED
+
+*	Excel – For data extraction,
+** Data profiling and cleaning using;
+- Nesting for standardization (Tables, Proper, Clean, Trim, Substitute)
+-	Functions (Find and Replace)
+-	Date correction (manual entry and drilled down
+*	Pivot table – For aggregation
+*	Slicers – For filtering, responsiveness and easy navigation
+*	Charts and shapes – For visualization
