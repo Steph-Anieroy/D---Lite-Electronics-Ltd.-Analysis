@@ -42,3 +42,20 @@ This project focuses on analyzing sales, customer data and staff performance acr
 *	Pivot table – For aggregation
 *	Slicers – For filtering, responsiveness and easy navigation
 *	Charts and shapes – For visualization
+
+
+## DATA DESCRIPTION
+
+*	Data contains 100 Rows and 8 Columns
+*	Date
+*	Region
+*	Product
+*	Category
+*	Unit sold
+*	Unit price
+*	Sales rep
+*	Customer
+*	Total price
+
+
+## DASHBOARD PREVIEW
