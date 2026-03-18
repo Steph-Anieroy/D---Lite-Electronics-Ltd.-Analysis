@@ -1,4 +1,4 @@
-# D---Lite-Electronics-Ltd.-Analysis
+# D-Lite-Electronics-Ltd.-Analysis
 
 ## FEATURES
 
